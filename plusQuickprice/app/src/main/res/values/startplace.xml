@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="출발지">
+        <item>옥계</item>
+        <item>확단</item>
+        <item>산동면(상)</item>
+        <item>구포동</item>
+        <item>거의동</item>
+        <item>봉산리</item>
+
+    </string-array>>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="도착지">
+        <item>옥계</item>//0
+        <item>호반</item>//1
+        <item>봉산리(오피스텔)</item>//2
+        <item>봉산리(공장단지)</item>//3
+        <item>확단</item>//4
+        <item>산동면(상: 논공단지, 송산리치빌 전)</item>//5
+        <item>산동면(상 : 송산리치빌 지나)</item>//6
+        <item>구포동(LG 3공장 후문까지)</item>//7
+        <item>거의동</item>//8
+        <item>양호동</item>//9
+        <item>금전동(오옴전자 전)</item>//10
+        <item>금전동(오옴전자 지나서)</item>//11
+        <item>임천리(산마을)</item>//12
+        <item>임천리(산마을 이후)</item>//13
+        <item>성수리</item>//14
+
+        <item>괴곡리</item>//15
+        <item>인의, 진평, 황상</item>//16
+        <item>구평(영무 전)</item>//17
+        <item>구평(영무 지나서)</item>//18
+        <item>천평</item>//19
+        <item>임수</item>//20
+        <item>시미</item>
+        <item>석적(다리 전)</item>
+        <item>석적(다리 지나서)</item>
+        <item>석적(한솔,금호,어울림,우방,동아,남경)</item>
+        <item>석적(효성해링턴)</item>
+        <item>해평(원거리 추가)</item>
+        <item>장천</item>
+        <item>비산</item>
+        <item>신평</item>
+
+        <item>신평(영무예다음)</item>
+        <item>공단</item>
+        <item>원평</item>
+        <item>광평</item>
+        <item>임은,사곡,상모</item>
+        <item>오태</item>
+        <item>형곡</item>
+        <item>형곡(금오산뒷길)</item>
+        <item>북삼</item>
+        <item>부곡,선기,금오산</item>
+        <item>지산,도량</item>
+        <item>남통,봉곡,문성,원호,각산</item>
+        <item>지산 체육공원</item>
+        <item>선산</item>
+        <item>구미CC</item>
+    </string-array>>
+
+</resources>
